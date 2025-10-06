@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Alexander. I intend to go to uni and do a physics degree. I am currently studying physics, computer science and duoble maths at bhasvic for my a levels. I am currently working on a board game simulator of the board game heat: pedal to the metal. I am a very quick learner and work well in a team. You can email at abie.hancox24@students.bhasvic.ac.uk.
+My name is Alexander. I intend to go to uni and do a physics degree. I am currently studying physics, computer science and double maths at bhasvic for my a levels. I am currently working on a board game simulator of the board game heat: pedal to the metal. I am a very quick learner and work well in a team. You can email at abie.hancox24@students.bhasvic.ac.uk.
 
 ## My past work
 
